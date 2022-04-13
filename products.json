@@ -1,0 +1,1253 @@
+[
+  {
+    "code": "NP930QED-KA2DE",
+    "stock": {
+      "stockLevelStatus": "preOrder",
+      "stockLevel": 4876,
+      "isValueRounded": false
+    },
+    "price": {
+      "currencyIso": "EUR",
+      "value": 1599.0,
+      "priceType": "BUY",
+      "formattedValue": "1.599,00 €"
+    },
+    "potentialPromotions": [
+      {
+        "code": "de_d2c_dc_AlwaysOn_STO_06_BookS_Flex_Flex2_Ion_BookPro_5PERCENT_2022",
+        "endDate": 1672444740000,
+        "description": "5% Rabatt"
+      },
+      {
+        "code": "de_d2c_dc_AlwaysOn_STO_07_BookS_Flex_Flex2_Ion_BookPro_5PERCENT_2022",
+        "endDate": 1672444740000,
+        "description": "5% Rabatt"
+      },
+      {
+        "code": "DE_IM_Always_ON_A&S&N&-Series&Tabelet&NPC_10percentOff_Watches_2022",
+        "endDate": 1672444740000,
+        "description": "Erhalte 10% Rabatt auf die Galaxy Watch"
+      },
+      {
+        "code": "DE_d2c_E-Promoter_10percent_off_2022",
+        "endDate": 1672444740000,
+        "description": "Kaufe jetzt das Galaxy Tab S7 FE 5G und erhalte Galaxy Buds+ in weiß gratis dazu."
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook_360_2_Multiadapter",
+        "endDate": 1651355940000,
+        "description": "Jetzt Galaxy Book2 360, Book2 Pro 360 oder Galaxy Book2 Pro kaufen und Multiport Adapter gratis sichern."
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_50EUR",
+        "endDate": 1680299940000,
+        "description": "50€ Rabatt"
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook2_Preorder_Abandoned Cart_5percent",
+        "endDate": 1672523940000,
+        "description": "Erhalte jetzt 5% Rabatt "
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook2_Members_5percent",
+        "endDate": 1651352340000,
+        "description": " Jetzt Galaxy Book2 Pro 360 oder Galaxy Book2 Pro kaufen, 5% Samsung Members Discount  und Multiportadapter gratis sichern."
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_100EUR",
+        "endDate": 1680299940000,
+        "description": "100€ Rabatt"
+      },
+      {
+        "code": "de_d2c_vc_EU_Retention_Programme_15percent_2022",
+        "endDate": 1656543540000,
+        "description": "15% Rabatt"
+      },
+      {
+        "code": "de_d2c_vc_dc_IM_EU_Retention_Programme_15percent_2022",
+        "endDate": 1672523940000,
+        "description": "15% Rabatt auf IM Produkte"
+      },
+      {
+        "code": "de_d2c_dc_Flagship_Rainbow_PreOrder_UpgradeWebinar_APS_50EUR",
+        "endDate": 1664571540000,
+        "description": "50€ Webinar Gutschein"
+      },
+      {
+        "code": "de_d2c_vc_Livestream_MX_Verlosung_150EUR",
+        "endDate": 1653944340000,
+        "description": "150€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_200EUR",
+        "endDate": 1680299940000,
+        "description": "200€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_300EUR",
+        "endDate": 1680299940000,
+        "description": "300€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_400EUR",
+        "endDate": 1680299940000,
+        "description": "400€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_500EUR",
+        "endDate": 1680299940000,
+        "description": "500€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_600EUR",
+        "endDate": 1680299940000,
+        "description": "600€ Rabatt"
+      },
+      {
+        "code": "de_d2c_dc_AlwaysOn_SamsungMember_5percent",
+        "endDate": 1656622740000,
+        "description": "Sichere dir als Samsung Member 5% Rabatt"
+      }
+    ],
+    "exVatTieredPrices": [],
+    "availableServices": [
+      { "serviceCategory": { "code": "smc", "name": "Samsung Care+" } }
+    ],
+    "aemAdditionalInfoTypes": [],
+    "supportedAvailableServices": [
+      "SIM_PLAN",
+      "RENTAL",
+      "INSURANCE",
+      "ACCESSORIES",
+      "BENEFIT"
+    ],
+    "tieredPrices": [],
+    "salesStatus": "PURCHASABLE",
+    "taxInfos": [
+      {
+        "code": "de-vat-tax",
+        "value": 19.0,
+        "appliedValue": null,
+        "isocode": null,
+        "absolute": false
+      }
+    ],
+    "picture": {
+      "url": "https://images.samsung.com/is/image/samsung/p6pim/de/np930qed-ka2de/gallery/de-galaxy-book2-pro-360-13inch-np930qeda-np930qed-ka2de-531241705?$ORIGIN_PNG$"
+    },
+    "exchangeableQuantity": 0
+  },
+  { "exchangeableQuantity": 0 },
+  {
+    "code": "NP930QED-KH1DE",
+    "stock": {
+      "stockLevelStatus": "preOrder",
+      "stockLevel": 4970,
+      "isValueRounded": false
+    },
+    "price": {
+      "currencyIso": "EUR",
+      "value": 1299.0,
+      "priceType": "BUY",
+      "formattedValue": "1.299,00 €"
+    },
+    "potentialPromotions": [
+      {
+        "code": "de_d2c_dc_AlwaysOn_STO_06_BookS_Flex_Flex2_Ion_BookPro_5PERCENT_2022",
+        "endDate": 1672444740000,
+        "description": "5% Rabatt"
+      },
+      {
+        "code": "de_d2c_dc_AlwaysOn_STO_07_BookS_Flex_Flex2_Ion_BookPro_5PERCENT_2022",
+        "endDate": 1672444740000,
+        "description": "5% Rabatt"
+      },
+      {
+        "code": "DE_IM_Always_ON_A&S&N&-Series&Tabelet&NPC_10percentOff_Watches_2022",
+        "endDate": 1672444740000,
+        "description": "Erhalte 10% Rabatt auf die Galaxy Watch"
+      },
+      {
+        "code": "DE_d2c_E-Promoter_10percent_off_2022",
+        "endDate": 1672444740000,
+        "description": "Kaufe jetzt das Galaxy Tab S7 FE 5G und erhalte Galaxy Buds+ in weiß gratis dazu."
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook_360_2_Multiadapter",
+        "endDate": 1651355940000,
+        "description": "Jetzt Galaxy Book2 360, Book2 Pro 360 oder Galaxy Book2 Pro kaufen und Multiport Adapter gratis sichern."
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_50EUR",
+        "endDate": 1680299940000,
+        "description": "50€ Rabatt"
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook2_Preorder_Abandoned Cart_5percent",
+        "endDate": 1672523940000,
+        "description": "Erhalte jetzt 5% Rabatt "
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook2_Members_5percent",
+        "endDate": 1651352340000,
+        "description": " Jetzt Galaxy Book2 Pro 360 oder Galaxy Book2 Pro kaufen, 5% Samsung Members Discount  und Multiportadapter gratis sichern."
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_100EUR",
+        "endDate": 1680299940000,
+        "description": "100€ Rabatt"
+      },
+      {
+        "code": "de_d2c_vc_EU_Retention_Programme_15percent_2022",
+        "endDate": 1656543540000,
+        "description": "15% Rabatt"
+      },
+      {
+        "code": "de_d2c_vc_dc_IM_EU_Retention_Programme_15percent_2022",
+        "endDate": 1672523940000,
+        "description": "15% Rabatt auf IM Produkte"
+      },
+      {
+        "code": "de_d2c_dc_Flagship_Rainbow_PreOrder_UpgradeWebinar_APS_50EUR",
+        "endDate": 1664571540000,
+        "description": "50€ Webinar Gutschein"
+      },
+      {
+        "code": "de_d2c_vc_Livestream_MX_Verlosung_150EUR",
+        "endDate": 1653944340000,
+        "description": "150€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_200EUR",
+        "endDate": 1680299940000,
+        "description": "200€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_300EUR",
+        "endDate": 1680299940000,
+        "description": "300€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_400EUR",
+        "endDate": 1680299940000,
+        "description": "400€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_500EUR",
+        "endDate": 1680299940000,
+        "description": "500€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_600EUR",
+        "endDate": 1680299940000,
+        "description": "600€ Rabatt"
+      },
+      {
+        "code": "de_d2c_dc_AlwaysOn_SamsungMember_5percent",
+        "endDate": 1656622740000,
+        "description": "Sichere dir als Samsung Member 5% Rabatt"
+      }
+    ],
+    "exVatTieredPrices": [],
+    "availableServices": [
+      { "serviceCategory": { "code": "smc", "name": "Samsung Care+" } }
+    ],
+    "aemAdditionalInfoTypes": [],
+    "supportedAvailableServices": [
+      "SIM_PLAN",
+      "RENTAL",
+      "INSURANCE",
+      "ACCESSORIES",
+      "BENEFIT"
+    ],
+    "tieredPrices": [],
+    "salesStatus": "PURCHASABLE",
+    "taxInfos": [
+      {
+        "code": "de-vat-tax",
+        "value": 19.0,
+        "appliedValue": null,
+        "isocode": null,
+        "absolute": false
+      }
+    ],
+    "picture": {
+      "url": "https://images.samsung.com/is/image/samsung/p6pim/de/np930qed-kh1de/gallery/de-galaxy-book2-pro-360-13inch-np930qeda-416892-np930qed-kh1de-531430153?$ORIGIN_PNG$"
+    },
+    "exchangeableQuantity": 0
+  },
+  {
+    "code": "NP930QED-KA1DE",
+    "stock": {
+      "stockLevelStatus": "preOrder",
+      "stockLevel": 4971,
+      "isValueRounded": false
+    },
+    "price": {
+      "currencyIso": "EUR",
+      "value": 1299.0,
+      "priceType": "BUY",
+      "formattedValue": "1.299,00 €"
+    },
+    "potentialPromotions": [
+      {
+        "code": "de_d2c_dc_AlwaysOn_STO_06_BookS_Flex_Flex2_Ion_BookPro_5PERCENT_2022",
+        "endDate": 1672444740000,
+        "description": "5% Rabatt"
+      },
+      {
+        "code": "de_d2c_dc_AlwaysOn_STO_07_BookS_Flex_Flex2_Ion_BookPro_5PERCENT_2022",
+        "endDate": 1672444740000,
+        "description": "5% Rabatt"
+      },
+      {
+        "code": "DE_IM_Always_ON_A&S&N&-Series&Tabelet&NPC_10percentOff_Watches_2022",
+        "endDate": 1672444740000,
+        "description": "Erhalte 10% Rabatt auf die Galaxy Watch"
+      },
+      {
+        "code": "DE_d2c_E-Promoter_10percent_off_2022",
+        "endDate": 1672444740000,
+        "description": "Kaufe jetzt das Galaxy Tab S7 FE 5G und erhalte Galaxy Buds+ in weiß gratis dazu."
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook_360_2_Multiadapter",
+        "endDate": 1651355940000,
+        "description": "Jetzt Galaxy Book2 360, Book2 Pro 360 oder Galaxy Book2 Pro kaufen und Multiport Adapter gratis sichern."
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_50EUR",
+        "endDate": 1680299940000,
+        "description": "50€ Rabatt"
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook2_Preorder_Abandoned Cart_5percent",
+        "endDate": 1672523940000,
+        "description": "Erhalte jetzt 5% Rabatt "
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook2_Members_5percent",
+        "endDate": 1651352340000,
+        "description": " Jetzt Galaxy Book2 Pro 360 oder Galaxy Book2 Pro kaufen, 5% Samsung Members Discount  und Multiportadapter gratis sichern."
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_100EUR",
+        "endDate": 1680299940000,
+        "description": "100€ Rabatt"
+      },
+      {
+        "code": "de_d2c_vc_EU_Retention_Programme_15percent_2022",
+        "endDate": 1656543540000,
+        "description": "15% Rabatt"
+      },
+      {
+        "code": "de_d2c_vc_dc_IM_EU_Retention_Programme_15percent_2022",
+        "endDate": 1672523940000,
+        "description": "15% Rabatt auf IM Produkte"
+      },
+      {
+        "code": "de_d2c_dc_Flagship_Rainbow_PreOrder_UpgradeWebinar_APS_50EUR",
+        "endDate": 1664571540000,
+        "description": "50€ Webinar Gutschein"
+      },
+      {
+        "code": "de_d2c_vc_Livestream_MX_Verlosung_150EUR",
+        "endDate": 1653944340000,
+        "description": "150€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_200EUR",
+        "endDate": 1680299940000,
+        "description": "200€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_300EUR",
+        "endDate": 1680299940000,
+        "description": "300€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_400EUR",
+        "endDate": 1680299940000,
+        "description": "400€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_500EUR",
+        "endDate": 1680299940000,
+        "description": "500€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_600EUR",
+        "endDate": 1680299940000,
+        "description": "600€ Rabatt"
+      },
+      {
+        "code": "de_d2c_dc_AlwaysOn_SamsungMember_5percent",
+        "endDate": 1656622740000,
+        "description": "Sichere dir als Samsung Member 5% Rabatt"
+      }
+    ],
+    "exVatTieredPrices": [],
+    "availableServices": [
+      { "serviceCategory": { "code": "smc", "name": "Samsung Care+" } }
+    ],
+    "aemAdditionalInfoTypes": [],
+    "supportedAvailableServices": [
+      "SIM_PLAN",
+      "RENTAL",
+      "INSURANCE",
+      "ACCESSORIES",
+      "BENEFIT"
+    ],
+    "tieredPrices": [],
+    "salesStatus": "PURCHASABLE",
+    "taxInfos": [
+      {
+        "code": "de-vat-tax",
+        "value": 19.0,
+        "appliedValue": null,
+        "isocode": null,
+        "absolute": false
+      }
+    ],
+    "picture": {
+      "url": "https://images.samsung.com/is/image/samsung/p6pim/de/np930qed-ka1de/gallery/de-galaxy-book2-pro-360-13inch-np930qeda-np930qed-ka1de-531241651?$ORIGIN_PNG$"
+    },
+    "exchangeableQuantity": 0
+  },
+  {
+    "code": "NP950QED-KA1DE",
+    "stock": {
+      "stockLevelStatus": "preOrder",
+      "stockLevel": 4966,
+      "isValueRounded": false
+    },
+    "price": {
+      "currencyIso": "EUR",
+      "value": 1399.0,
+      "priceType": "BUY",
+      "formattedValue": "1.399,00 €"
+    },
+    "potentialPromotions": [
+      {
+        "code": "de_d2c_dc_AlwaysOn_STO_06_BookS_Flex_Flex2_Ion_BookPro_5PERCENT_2022",
+        "endDate": 1672444740000,
+        "description": "5% Rabatt"
+      },
+      {
+        "code": "de_d2c_dc_AlwaysOn_STO_07_BookS_Flex_Flex2_Ion_BookPro_5PERCENT_2022",
+        "endDate": 1672444740000,
+        "description": "5% Rabatt"
+      },
+      {
+        "code": "DE_IM_Always_ON_A&S&N&-Series&Tabelet&NPC_10percentOff_Watches_2022",
+        "endDate": 1672444740000,
+        "description": "Erhalte 10% Rabatt auf die Galaxy Watch"
+      },
+      {
+        "code": "DE_d2c_E-Promoter_10percent_off_2022",
+        "endDate": 1672444740000,
+        "description": "Kaufe jetzt das Galaxy Tab S7 FE 5G und erhalte Galaxy Buds+ in weiß gratis dazu."
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook_360_2_Multiadapter",
+        "endDate": 1651355940000,
+        "description": "Jetzt Galaxy Book2 360, Book2 Pro 360 oder Galaxy Book2 Pro kaufen und Multiport Adapter gratis sichern."
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_50EUR",
+        "endDate": 1680299940000,
+        "description": "50€ Rabatt"
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook2_Preorder_Abandoned Cart_5percent",
+        "endDate": 1672523940000,
+        "description": "Erhalte jetzt 5% Rabatt "
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook2_Members_5percent",
+        "endDate": 1651352340000,
+        "description": " Jetzt Galaxy Book2 Pro 360 oder Galaxy Book2 Pro kaufen, 5% Samsung Members Discount  und Multiportadapter gratis sichern."
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_100EUR",
+        "endDate": 1680299940000,
+        "description": "100€ Rabatt"
+      },
+      {
+        "code": "de_d2c_vc_EU_Retention_Programme_15percent_2022",
+        "endDate": 1656543540000,
+        "description": "15% Rabatt"
+      },
+      {
+        "code": "de_d2c_vc_dc_IM_EU_Retention_Programme_15percent_2022",
+        "endDate": 1672523940000,
+        "description": "15% Rabatt auf IM Produkte"
+      },
+      {
+        "code": "de_d2c_dc_Flagship_Rainbow_PreOrder_UpgradeWebinar_APS_50EUR",
+        "endDate": 1664571540000,
+        "description": "50€ Webinar Gutschein"
+      },
+      {
+        "code": "de_d2c_vc_Livestream_MX_Verlosung_150EUR",
+        "endDate": 1653944340000,
+        "description": "150€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_200EUR",
+        "endDate": 1680299940000,
+        "description": "200€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_300EUR",
+        "endDate": 1680299940000,
+        "description": "300€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_400EUR",
+        "endDate": 1680299940000,
+        "description": "400€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_500EUR",
+        "endDate": 1680299940000,
+        "description": "500€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_600EUR",
+        "endDate": 1680299940000,
+        "description": "600€ Rabatt"
+      },
+      {
+        "code": "de_d2c_dc_AlwaysOn_SamsungMember_5percent",
+        "endDate": 1656622740000,
+        "description": "Sichere dir als Samsung Member 5% Rabatt"
+      }
+    ],
+    "exVatTieredPrices": [],
+    "availableServices": [
+      { "serviceCategory": { "code": "smc", "name": "Samsung Care+" } }
+    ],
+    "aemAdditionalInfoTypes": [],
+    "supportedAvailableServices": [
+      "SIM_PLAN",
+      "RENTAL",
+      "INSURANCE",
+      "ACCESSORIES",
+      "BENEFIT"
+    ],
+    "tieredPrices": [],
+    "salesStatus": "PURCHASABLE",
+    "taxInfos": [
+      {
+        "code": "de-vat-tax",
+        "value": 19.0,
+        "appliedValue": null,
+        "isocode": null,
+        "absolute": false
+      }
+    ],
+    "picture": {
+      "url": "https://images.samsung.com/is/image/samsung/p6pim/de/np950qed-ka1de/gallery/de-galaxy-book2-pro-360-15inch-np950qeda-np950qed-ka1de-531242032?$ORIGIN_PNG$"
+    },
+    "exchangeableQuantity": 0
+  },
+  {
+    "code": "NP950QED-KA2DE",
+    "stock": {
+      "stockLevelStatus": "preOrder",
+      "stockLevel": 4676,
+      "isValueRounded": false
+    },
+    "price": {
+      "currencyIso": "EUR",
+      "value": 1699.0,
+      "priceType": "BUY",
+      "formattedValue": "1.699,00 €"
+    },
+    "potentialPromotions": [
+      {
+        "code": "de_d2c_dc_AlwaysOn_STO_06_BookS_Flex_Flex2_Ion_BookPro_5PERCENT_2022",
+        "endDate": 1672444740000,
+        "description": "5% Rabatt"
+      },
+      {
+        "code": "de_d2c_dc_AlwaysOn_STO_07_BookS_Flex_Flex2_Ion_BookPro_5PERCENT_2022",
+        "endDate": 1672444740000,
+        "description": "5% Rabatt"
+      },
+      {
+        "code": "DE_IM_Always_ON_A&S&N&-Series&Tabelet&NPC_10percentOff_Watches_2022",
+        "endDate": 1672444740000,
+        "description": "Erhalte 10% Rabatt auf die Galaxy Watch"
+      },
+      {
+        "code": "DE_d2c_E-Promoter_10percent_off_2022",
+        "endDate": 1672444740000,
+        "description": "Kaufe jetzt das Galaxy Tab S7 FE 5G und erhalte Galaxy Buds+ in weiß gratis dazu."
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook_360_2_Multiadapter",
+        "endDate": 1651355940000,
+        "description": "Jetzt Galaxy Book2 360, Book2 Pro 360 oder Galaxy Book2 Pro kaufen und Multiport Adapter gratis sichern."
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_50EUR",
+        "endDate": 1680299940000,
+        "description": "50€ Rabatt"
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook2_Preorder_Abandoned Cart_5percent",
+        "endDate": 1672523940000,
+        "description": "Erhalte jetzt 5% Rabatt "
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook2_Members_5percent",
+        "endDate": 1651352340000,
+        "description": " Jetzt Galaxy Book2 Pro 360 oder Galaxy Book2 Pro kaufen, 5% Samsung Members Discount  und Multiportadapter gratis sichern."
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_100EUR",
+        "endDate": 1680299940000,
+        "description": "100€ Rabatt"
+      },
+      {
+        "code": "de_d2c_vc_EU_Retention_Programme_15percent_2022",
+        "endDate": 1656543540000,
+        "description": "15% Rabatt"
+      },
+      {
+        "code": "de_d2c_vc_dc_IM_EU_Retention_Programme_15percent_2022",
+        "endDate": 1672523940000,
+        "description": "15% Rabatt auf IM Produkte"
+      },
+      {
+        "code": "de_d2c_dc_Flagship_Rainbow_PreOrder_UpgradeWebinar_APS_50EUR",
+        "endDate": 1664571540000,
+        "description": "50€ Webinar Gutschein"
+      },
+      {
+        "code": "de_d2c_vc_Livestream_MX_Verlosung_150EUR",
+        "endDate": 1653944340000,
+        "description": "150€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_200EUR",
+        "endDate": 1680299940000,
+        "description": "200€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_300EUR",
+        "endDate": 1680299940000,
+        "description": "300€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_400EUR",
+        "endDate": 1680299940000,
+        "description": "400€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_500EUR",
+        "endDate": 1680299940000,
+        "description": "500€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_600EUR",
+        "endDate": 1680299940000,
+        "description": "600€ Rabatt"
+      },
+      {
+        "code": "de_d2c_dc_AlwaysOn_SamsungMember_5percent",
+        "endDate": 1656622740000,
+        "description": "Sichere dir als Samsung Member 5% Rabatt"
+      }
+    ],
+    "exVatTieredPrices": [],
+    "availableServices": [
+      { "serviceCategory": { "code": "smc", "name": "Samsung Care+" } }
+    ],
+    "aemAdditionalInfoTypes": [],
+    "supportedAvailableServices": [
+      "SIM_PLAN",
+      "RENTAL",
+      "INSURANCE",
+      "ACCESSORIES",
+      "BENEFIT"
+    ],
+    "tieredPrices": [],
+    "salesStatus": "PURCHASABLE",
+    "taxInfos": [
+      {
+        "code": "de-vat-tax",
+        "value": 19.0,
+        "appliedValue": null,
+        "isocode": null,
+        "absolute": false
+      }
+    ],
+    "picture": {
+      "url": "https://images.samsung.com/is/image/samsung/p6pim/de/np950qed-ka2de/gallery/de-galaxy-book2-pro-360-15inch-np950qeda-np950qed-ka2de-531242086?$ORIGIN_PNG$"
+    },
+    "exchangeableQuantity": 0
+  },
+  { "exchangeableQuantity": 0 },
+  { "exchangeableQuantity": 0 },
+  { "exchangeableQuantity": 0 },
+  {
+    "code": "NP930XED-KA1DE",
+    "stock": {
+      "stockLevelStatus": "preOrder",
+      "stockLevel": 4983,
+      "isValueRounded": false
+    },
+    "price": {
+      "currencyIso": "EUR",
+      "value": 1199.0,
+      "priceType": "BUY",
+      "formattedValue": "1.199,00 €"
+    },
+    "potentialPromotions": [
+      {
+        "code": "de_d2c_dc_AlwaysOn_STO_06_BookS_Flex_Flex2_Ion_BookPro_5PERCENT_2022",
+        "endDate": 1672444740000,
+        "description": "5% Rabatt"
+      },
+      {
+        "code": "de_d2c_dc_AlwaysOn_STO_07_BookS_Flex_Flex2_Ion_BookPro_5PERCENT_2022",
+        "endDate": 1672444740000,
+        "description": "5% Rabatt"
+      },
+      {
+        "code": "DE_IM_Always_ON_A&S&N&-Series&Tabelet&NPC_10percentOff_Watches_2022",
+        "endDate": 1672444740000,
+        "description": "Erhalte 10% Rabatt auf die Galaxy Watch"
+      },
+      {
+        "code": "DE_d2c_E-Promoter_10percent_off_2022",
+        "endDate": 1672444740000,
+        "description": "Kaufe jetzt das Galaxy Tab S7 FE 5G und erhalte Galaxy Buds+ in weiß gratis dazu."
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook_360_2_Multiadapter",
+        "endDate": 1651355940000,
+        "description": "Jetzt Galaxy Book2 360, Book2 Pro 360 oder Galaxy Book2 Pro kaufen und Multiport Adapter gratis sichern."
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_50EUR",
+        "endDate": 1680299940000,
+        "description": "50€ Rabatt"
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook2_Preorder_Abandoned Cart_5percent",
+        "endDate": 1672523940000,
+        "description": "Erhalte jetzt 5% Rabatt "
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook2_Members_5percent",
+        "endDate": 1651352340000,
+        "description": " Jetzt Galaxy Book2 Pro 360 oder Galaxy Book2 Pro kaufen, 5% Samsung Members Discount  und Multiportadapter gratis sichern."
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_100EUR",
+        "endDate": 1680299940000,
+        "description": "100€ Rabatt"
+      },
+      {
+        "code": "de_d2c_vc_EU_Retention_Programme_15percent_2022",
+        "endDate": 1656543540000,
+        "description": "15% Rabatt"
+      },
+      {
+        "code": "de_d2c_vc_dc_IM_EU_Retention_Programme_15percent_2022",
+        "endDate": 1672523940000,
+        "description": "15% Rabatt auf IM Produkte"
+      },
+      {
+        "code": "de_d2c_dc_Flagship_Rainbow_PreOrder_UpgradeWebinar_APS_50EUR",
+        "endDate": 1664571540000,
+        "description": "50€ Webinar Gutschein"
+      },
+      {
+        "code": "de_d2c_vc_Livestream_MX_Verlosung_150EUR",
+        "endDate": 1653944340000,
+        "description": "150€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_200EUR",
+        "endDate": 1680299940000,
+        "description": "200€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_300EUR",
+        "endDate": 1680299940000,
+        "description": "300€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_400EUR",
+        "endDate": 1680299940000,
+        "description": "400€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_500EUR",
+        "endDate": 1680299940000,
+        "description": "500€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_600EUR",
+        "endDate": 1680299940000,
+        "description": "600€ Rabatt"
+      },
+      {
+        "code": "de_d2c_dc_AlwaysOn_SamsungMember_5percent",
+        "endDate": 1656622740000,
+        "description": "Sichere dir als Samsung Member 5% Rabatt"
+      }
+    ],
+    "exVatTieredPrices": [],
+    "availableServices": [
+      { "serviceCategory": { "code": "smc", "name": "Samsung Care+" } }
+    ],
+    "aemAdditionalInfoTypes": [],
+    "supportedAvailableServices": [
+      "SIM_PLAN",
+      "RENTAL",
+      "INSURANCE",
+      "ACCESSORIES",
+      "BENEFIT"
+    ],
+    "tieredPrices": [],
+    "salesStatus": "PURCHASABLE",
+    "taxInfos": [
+      {
+        "code": "de-vat-tax",
+        "value": 19.0,
+        "appliedValue": null,
+        "isocode": null,
+        "absolute": false
+      }
+    ],
+    "picture": {
+      "url": "https://images.samsung.com/is/image/samsung/p6pim/de/np930xed-ka1de/gallery/de-galaxy-book2-pro-13inch-np930xeda-np930xed-ka1de-531242254?$ORIGIN_PNG$"
+    },
+    "exchangeableQuantity": 0
+  },
+  {
+    "code": "NP950XED-KA1DE",
+    "stock": {
+      "stockLevelStatus": "preOrder",
+      "stockLevel": 4902,
+      "isValueRounded": false
+    },
+    "price": {
+      "currencyIso": "EUR",
+      "value": 1599.0,
+      "priceType": "BUY",
+      "formattedValue": "1.599,00 €"
+    },
+    "potentialPromotions": [
+      {
+        "code": "de_d2c_dc_AlwaysOn_STO_06_BookS_Flex_Flex2_Ion_BookPro_5PERCENT_2022",
+        "endDate": 1672444740000,
+        "description": "5% Rabatt"
+      },
+      {
+        "code": "de_d2c_dc_AlwaysOn_STO_07_BookS_Flex_Flex2_Ion_BookPro_5PERCENT_2022",
+        "endDate": 1672444740000,
+        "description": "5% Rabatt"
+      },
+      {
+        "code": "DE_IM_Always_ON_A&S&N&-Series&Tabelet&NPC_10percentOff_Watches_2022",
+        "endDate": 1672444740000,
+        "description": "Erhalte 10% Rabatt auf die Galaxy Watch"
+      },
+      {
+        "code": "DE_d2c_E-Promoter_10percent_off_2022",
+        "endDate": 1672444740000,
+        "description": "Kaufe jetzt das Galaxy Tab S7 FE 5G und erhalte Galaxy Buds+ in weiß gratis dazu."
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook_360_2_Multiadapter",
+        "endDate": 1651355940000,
+        "description": "Jetzt Galaxy Book2 360, Book2 Pro 360 oder Galaxy Book2 Pro kaufen und Multiport Adapter gratis sichern."
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_50EUR",
+        "endDate": 1680299940000,
+        "description": "50€ Rabatt"
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook2_Preorder_Abandoned Cart_5percent",
+        "endDate": 1672523940000,
+        "description": "Erhalte jetzt 5% Rabatt "
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook2_Members_5percent",
+        "endDate": 1651352340000,
+        "description": " Jetzt Galaxy Book2 Pro 360 oder Galaxy Book2 Pro kaufen, 5% Samsung Members Discount  und Multiportadapter gratis sichern."
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_100EUR",
+        "endDate": 1680299940000,
+        "description": "100€ Rabatt"
+      },
+      {
+        "code": "de_d2c_vc_EU_Retention_Programme_15percent_2022",
+        "endDate": 1656543540000,
+        "description": "15% Rabatt"
+      },
+      {
+        "code": "de_d2c_vc_dc_IM_EU_Retention_Programme_15percent_2022",
+        "endDate": 1672523940000,
+        "description": "15% Rabatt auf IM Produkte"
+      },
+      {
+        "code": "de_d2c_dc_Flagship_Rainbow_PreOrder_UpgradeWebinar_APS_50EUR",
+        "endDate": 1664571540000,
+        "description": "50€ Webinar Gutschein"
+      },
+      {
+        "code": "de_d2c_vc_Livestream_MX_Verlosung_150EUR",
+        "endDate": 1653944340000,
+        "description": "150€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_200EUR",
+        "endDate": 1680299940000,
+        "description": "200€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_300EUR",
+        "endDate": 1680299940000,
+        "description": "300€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_400EUR",
+        "endDate": 1680299940000,
+        "description": "400€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_500EUR",
+        "endDate": 1680299940000,
+        "description": "500€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_600EUR",
+        "endDate": 1680299940000,
+        "description": "600€ Rabatt"
+      },
+      {
+        "code": "de_d2c_dc_AlwaysOn_SamsungMember_5percent",
+        "endDate": 1656622740000,
+        "description": "Sichere dir als Samsung Member 5% Rabatt"
+      }
+    ],
+    "exVatTieredPrices": [],
+    "availableServices": [
+      { "serviceCategory": { "code": "smc", "name": "Samsung Care+" } }
+    ],
+    "aemAdditionalInfoTypes": [],
+    "supportedAvailableServices": [
+      "SIM_PLAN",
+      "RENTAL",
+      "INSURANCE",
+      "ACCESSORIES",
+      "BENEFIT"
+    ],
+    "tieredPrices": [],
+    "salesStatus": "PURCHASABLE",
+    "taxInfos": [
+      {
+        "code": "de-vat-tax",
+        "value": 19.0,
+        "appliedValue": null,
+        "isocode": null,
+        "absolute": false
+      }
+    ],
+    "picture": {
+      "url": "https://images.samsung.com/is/image/samsung/p6pim/de/np950xed-ka1de/gallery/de-galaxy-book2-pro-15inch-np950xeda-np950xed-ka1de-531242396?$ORIGIN_PNG$"
+    },
+    "exchangeableQuantity": 0
+  },
+  {
+    "code": "NP955XED-KA1DE",
+    "stock": {
+      "stockLevelStatus": "preOrder",
+      "stockLevel": 4944,
+      "isValueRounded": false
+    },
+    "price": {
+      "currencyIso": "EUR",
+      "value": 1749.0,
+      "priceType": "BUY",
+      "formattedValue": "1.749,00 €"
+    },
+    "potentialPromotions": [
+      {
+        "code": "de_d2c_dc_AlwaysOn_STO_06_BookS_Flex_Flex2_Ion_BookPro_5PERCENT_2022",
+        "endDate": 1672444740000,
+        "description": "5% Rabatt"
+      },
+      {
+        "code": "de_d2c_dc_AlwaysOn_STO_07_BookS_Flex_Flex2_Ion_BookPro_5PERCENT_2022",
+        "endDate": 1672444740000,
+        "description": "5% Rabatt"
+      },
+      {
+        "code": "DE_IM_Always_ON_A&S&N&-Series&Tabelet&NPC_10percentOff_Watches_2022",
+        "endDate": 1672444740000,
+        "description": "Erhalte 10% Rabatt auf die Galaxy Watch"
+      },
+      {
+        "code": "DE_d2c_E-Promoter_10percent_off_2022",
+        "endDate": 1672444740000,
+        "description": "Kaufe jetzt das Galaxy Tab S7 FE 5G und erhalte Galaxy Buds+ in weiß gratis dazu."
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook_360_2_Multiadapter",
+        "endDate": 1651355940000,
+        "description": "Jetzt Galaxy Book2 360, Book2 Pro 360 oder Galaxy Book2 Pro kaufen und Multiport Adapter gratis sichern."
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_50EUR",
+        "endDate": 1680299940000,
+        "description": "50€ Rabatt"
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook2_Preorder_Abandoned Cart_5percent",
+        "endDate": 1672523940000,
+        "description": "Erhalte jetzt 5% Rabatt "
+      },
+      {
+        "code": "de_d2c_foc_Galaxybook2_Members_5percent",
+        "endDate": 1651352340000,
+        "description": " Jetzt Galaxy Book2 Pro 360 oder Galaxy Book2 Pro kaufen, 5% Samsung Members Discount  und Multiportadapter gratis sichern."
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_100EUR",
+        "endDate": 1680299940000,
+        "description": "100€ Rabatt"
+      },
+      {
+        "code": "de_d2c_vc_EU_Retention_Programme_15percent_2022",
+        "endDate": 1656543540000,
+        "description": "15% Rabatt"
+      },
+      {
+        "code": "de_d2c_vc_dc_IM_EU_Retention_Programme_15percent_2022",
+        "endDate": 1672523940000,
+        "description": "15% Rabatt auf IM Produkte"
+      },
+      {
+        "code": "de_d2c_dc_Flagship_Rainbow_PreOrder_UpgradeWebinar_APS_50EUR",
+        "endDate": 1664571540000,
+        "description": "50€ Webinar Gutschein"
+      },
+      {
+        "code": "de_d2c_vc_Livestream_MX_Verlosung_150EUR",
+        "endDate": 1653944340000,
+        "description": "150€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_200EUR",
+        "endDate": 1680299940000,
+        "description": "200€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_300EUR",
+        "endDate": 1680299940000,
+        "description": "300€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_400EUR",
+        "endDate": 1680299940000,
+        "description": "400€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_500EUR",
+        "endDate": 1680299940000,
+        "description": "500€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_600EUR",
+        "endDate": 1680299940000,
+        "description": "600€ Rabatt"
+      },
+      {
+        "code": "de_d2c_dc_AlwaysOn_SamsungMember_5percent",
+        "endDate": 1656622740000,
+        "description": "Sichere dir als Samsung Member 5% Rabatt"
+      }
+    ],
+    "exVatTieredPrices": [],
+    "availableServices": [
+      { "serviceCategory": { "code": "smc", "name": "Samsung Care+" } },
+      { "serviceCategory": { "code": "sim_plan", "name": "Tarifaktivierung" } }
+    ],
+    "aemAdditionalInfoTypes": [],
+    "supportedAvailableServices": [
+      "SIM_PLAN",
+      "RENTAL",
+      "INSURANCE",
+      "ACCESSORIES",
+      "BENEFIT"
+    ],
+    "tieredPrices": [],
+    "salesStatus": "PURCHASABLE",
+    "taxInfos": [
+      {
+        "code": "de-vat-tax",
+        "value": 19.0,
+        "appliedValue": null,
+        "isocode": null,
+        "absolute": false
+      }
+    ],
+    "picture": {
+      "url": "https://images.samsung.com/is/image/samsung/p6pim/de/np955xed-ka1de/gallery/de-galaxy-book2-pro-5g-15inch-np955xeda-np955xed-ka1de-531468488?$ORIGIN_PNG$"
+    },
+    "exchangeableQuantity": 0
+  },
+  {
+    "code": "SM-T733NZKAEUB",
+    "stock": {
+      "stockLevelStatus": "preOrder",
+      "stockLevel": 6,
+      "isValueRounded": false
+    },
+    "price": {
+      "currencyIso": "EUR",
+      "value": 579.0,
+      "priceType": "BUY",
+      "formattedValue": "579,00 €"
+    },
+    "potentialPromotions": [
+      {
+        "code": "DE_d2c_E-Promoter_10percent_off_2022",
+        "endDate": 1672444740000,
+        "description": "Kaufe jetzt das Galaxy Tab S7 FE 5G und erhalte Galaxy Buds+ in weiß gratis dazu."
+      },
+      {
+        "code": "de_d2c_foc_SemesterStart_04_TabS7FE_BookCover",
+        "endDate": 1650319140000,
+        "description": "Kaufe jetzt das Tab S7 FE und erhalte das Book Cover Keyboard Slim gratis dazu. "
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_50EUR",
+        "endDate": 1680299940000,
+        "description": "50€ Rabatt"
+      },
+      {
+        "code": "DE_IM_12y anniversary_All_IM_Products_12percentDiscount_2022",
+        "endDate": 1672480740000,
+        "description": "Kaufe jetzt das Galaxy Tab S7 FE 5G und erhalte Galaxy Buds+ in weiß gratis dazu."
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_100EUR",
+        "endDate": 1680299940000,
+        "description": "100€ Rabatt"
+      },
+      {
+        "code": "de_d2c_vc_EU_Retention_Programme_15percent_2022",
+        "endDate": 1656543540000,
+        "description": "15% Rabatt"
+      },
+      {
+        "code": "de_d2c_vc_dc_IM_EU_Retention_Programme_15percent_2022",
+        "endDate": 1672523940000,
+        "description": "15% Rabatt auf IM Produkte"
+      },
+      {
+        "code": "de_d2c_dc_Flagship_Rainbow_PreOrder_UpgradeWebinar_APS_50EUR",
+        "endDate": 1664571540000,
+        "description": "50€ Webinar Gutschein"
+      },
+      {
+        "code": "de_d2c_vc_Livestream_MX_Verlosung_150EUR",
+        "endDate": 1653944340000,
+        "description": "150€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_200EUR",
+        "endDate": 1680299940000,
+        "description": "200€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_300EUR",
+        "endDate": 1680299940000,
+        "description": "300€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_400EUR",
+        "endDate": 1680299940000,
+        "description": "400€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_500EUR",
+        "endDate": 1680299940000,
+        "description": "500€ Rabatt"
+      },
+      {
+        "code": "de_d2c_Matrix_IM_Repair_2022_600EUR",
+        "endDate": 1680299940000,
+        "description": "600€ Rabatt"
+      },
+      {
+        "code": "de_d2c_dc_AlwaysOn_SamsungMember_5percent",
+        "endDate": 1656622740000,
+        "description": "Sichere dir als Samsung Member 5% Rabatt"
+      }
+    ],
+    "exVatTieredPrices": [],
+    "availableServices": [
+      { "serviceCategory": { "code": "smc", "name": "Samsung Care+" } }
+    ],
+    "aemAdditionalInfoTypes": [
+      {
+        "type": "Gift",
+        "aemAdditionalInfos": [
+          {
+            "key": "subTitle",
+            "value": "Wähle jetzt die Galaxy Buds 2 in deiner gewünschten Farbe aus",
+            "description": null
+          },
+          {
+            "key": "mainTitle",
+            "value": "Du hast die Wahl!",
+            "description": null
+          }
+        ]
+      }
+    ],
+    "promotionPrice": {
+      "currencyIso": "EUR",
+      "value": 479.0,
+      "priceType": "BUY",
+      "formattedValue": "479,00 €"
+    },
+    "supportedAvailableServices": ["RENTAL", "INSURANCE"],
+    "tieredPrices": [
+      {
+        "currencyIso": "EUR",
+        "value": 479.0,
+        "priceType": "BUY",
+        "formattedValue": "479,00 €",
+        "minQuantity": 1
+      }
+    ],
+    "salesStatus": "PURCHASABLE",
+    "taxInfos": [
+      {
+        "code": "de-vat-tax",
+        "value": 19.0,
+        "appliedValue": null,
+        "isocode": null,
+        "absolute": false
+      }
+    ],
+    "picture": {
+      "url": "https://images.samsung.com/is/image/samsung/p6pim/de/sm-t733nzkaeub/gallery/de-galaxy-tab-s7-fe-t730-390096-sm-t733nzkaeub-492997805?$ORIGIN_PNG$"
+    },
+    "exchangeableQuantity": 0
+  }
+]
